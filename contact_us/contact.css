@@ -1,0 +1,141 @@
+.html {
+  scroll-behavior: smooth;
+}
+.nav-link {
+  color: #ffffff;
+  margin: 8px;
+  border-radius: 5px;
+}
+.button {
+  background-color: #c1a96f; /* Green */
+  border: none;
+  color: white;
+  padding: 0.5rem 1.5rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  /* margin: 6px 4px; */
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #e0a000d9;
+}
+.button {
+  border-radius: 4%;
+}
+.us {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.799);
+  padding: 60px;
+  margin-top: 3.5rem;
+}
+.con-us {
+  font-size: xx-large;
+  margin-left: 3rem;
+  font-family: "Times New Roman", Times, serif;
+}
+.our-all {
+  font-size: 20px;
+  margin-left: 3rem;
+  margin-top: 0.6rem;
+  font-family: "Times New Roman", Times, serif;
+}
+.location {
+  background-color: white;
+  margin-top: 1.2rem;
+}
+.location-texas {
+  color: black;
+  font-size: xx-large;
+  /* margin-top: 1rem; */
+  margin-left: 6.8rem;
+  font-family: "Times New Roman", Times, serif;
+}
+.texas {
+  color: black;
+  font-size: large;
+  /* margin-bottom: 5rem; */
+  margin-left: 6.8rem;
+  font-family: "Times New Roman", Times, serif;
+}
+.mobile-email {
+  background-color: white;
+  margin-top: 1.5rem;
+  color: black;
+}
+.mobile {
+  font-size: xx-large;
+  /* margin-top: 1rem; */
+  margin-left: 6.8rem;
+  font-family: "Times New Roman", Times, serif;
+}
+.phn {
+  /* color: black; */
+  font-size: large;
+  /* margin-bottom: 5rem; */
+  margin-left: 6.8rem;
+  font-family: "Times New Roman", Times, serif;
+}
+.phn-mil {
+  margin-left: 2rem;
+}
+
+.cont-map {
+  /* border: 1px solid #c1a96f; */
+  border-radius: 5px;
+  margin: 10%;
+  display: flex;
+  justify-content: space-around;
+}
+.map-contact {
+  margin: 2.5rem;
+}
+.contact-txt {
+  color: rgb(4, 4, 152);
+  padding-bottom: 1.2rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+/* .form {
+  padding-bottom: 2rem;
+} */
+.footer {
+  background-color: #c1a96f;
+  /* background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover; */
+  height: 8vh;
+}
+
+.all-right {
+  color: white;
+  text-align: center;
+  padding-top: 0.9rem;
+}
+.name {
+  padding: 70px;
+}
+.email-box {
+  padding: 70px;
+}
+.number {
+  padding: 70px;
+}
+.msg {
+  padding: 80px;
+}
+.submit-btn {
+  color: #ffffff;
+  background-color: #333333;
+
+  border: none;
+
+  padding: 0.5rem 8.8rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  /* margin: 6px 4px; */
+  cursor: pointer;
+}

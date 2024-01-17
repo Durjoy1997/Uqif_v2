@@ -1,0 +1,205 @@
+.html {
+  scroll-behavior: smooth;
+}
+.nav-link {
+  color: #ffffff;
+  margin: 8px;
+  border-radius: 5px;
+}
+.button {
+  background-color: #c1a96f;
+  color: #ffffff;
+  border: none;
+  padding: 0.5rem 1.5rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  /* margin: 6px 4px; */
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #c1a86fcd;
+}
+
+.path-to {
+  font-size: 48px;
+  color: #ffffff;
+  /* margin-left: 0.2rem; */
+  padding-top: 2rem;
+}
+.ummul-qurah {
+  font-size: small;
+  color: #ffffff;
+}
+.more-button {
+  background-color: #ffffff1c;
+  border: none;
+  color: #ffffff;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  border-radius: 3%;
+}
+.activities {
+  font-size: 3rem;
+  margin-left: 7.5rem;
+  padding-bottom: 2.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  /* align-items: center; */
+}
+.full {
+  color: #c1a96f;
+}
+.venue {
+  border: 1px solid #c1a96f;
+  border-radius: 5px;
+  padding: 5px;
+}
+.study {
+  font-size: 3rem;
+  margin-left: 7.5rem;
+  padding-top: 2.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.hifz {
+  font-size: 25px;
+  margin-top: 2rem;
+  margin-left: 7.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.who {
+  font-size: 3rem;
+  margin-left: 7.5rem;
+  padding-top: 2.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.who-we {
+  font-size: 20px;
+  margin-left: 7.5rem;
+  padding-top: 0.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.btn-learn {
+  background-color: white;
+  color: black;
+  border: 1.5px solid black;
+  padding: 0.2rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  /* margin: 6px 4px; */
+  cursor: pointer;
+}
+.btn-learns {
+  background-color: black;
+  color: white;
+  border: 1.5px solid black;
+  padding: 0.2rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  /* margin: 6px 4px; */
+  cursor: pointer;
+}
+.btn-learns:hover {
+  background-color: rgba(0, 0, 0, 0.839);
+}
+.who-container {
+  display: flex;
+  justify-content: space-between;
+}
+.who-img {
+  margin-right: 6rem;
+}
+.events {
+  font-size: 3rem;
+  margin-left: 7.5rem;
+  padding-top: 2.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.events-container {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 2rem;
+}
+.event-bln {
+  margin-left: 3.5rem;
+}
+.cont {
+  border: 1px solid #c1a96f;
+  border-radius: 5px;
+  margin: 10%;
+  display: flex;
+  justify-content: space-around;
+}
+.sub-txt {
+  color: #c1a96f;
+  font-size: 1.8rem;
+  /* margin-left: 7.5rem; */
+  padding-top: 1rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.sub-btn {
+  background-color: #c1a96f;
+  color: #ffffff;
+  border: none;
+  padding: 0.4rem 1.8rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  /* margin: 6px 4px; */
+  cursor: pointer;
+  margin-top: 1rem;
+}
+.sub-btn:hover {
+  background-color: #c1a86fc1;
+}
+.footer {
+  background-color: #c1a96f;
+  height: 51px;
+}
+.all-right {
+  color: #ffffff;
+}
+
+.banner {
+  text-align: left;
+  padding-bottom: 6.2rem;
+  margin-left: 6.2rem;
+}
+.path-to {
+  /* margin-right: 11rem; */
+  /* padding-bottom: 6rem; */
+  font-size: 48px;
+  font-family: "Times New Roman", Times, serif;
+}
+.ummul-qurah {
+  /* margin-right: 11rem; */
+  /* padding-bottom: 1rem; */
+  font-size: small;
+  font-family: "Times New Roman", Times, serif;
+}
+.more-button {
+  background-color: #ffffff;
+  border: none;
+  color: #122760;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  border-radius: 3%;
+}
+.more-button:hover {
+  background-color: #ffffffd6;
+}
